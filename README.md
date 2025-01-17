@@ -31,7 +31,7 @@ We are not responsible for any problems caused by your use of this!
 And Follow mr nima and give one star for queen elisa.
 </br>
  ### `VERSION : 4.0.2 - V`
- `Last Update : ` _2025-01-_ | [Update Info](https://mr-nima.vercel.app/change-log)
+ `Last Update : ` _2025-01-17_ | [Update Info](https://mr-nima.vercel.app/change-log)
 
 #### Give One star For Queen Elisa and [Follow Me](https://github.com/DarkMakerofc) 
 
