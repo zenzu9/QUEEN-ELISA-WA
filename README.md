@@ -27,12 +27,11 @@
 ### Please Read !
 Queen elisa is a whatsapp bot created by mr nima ( darkmakerofc ) & ELISACODERS TEAM using baileys web api. Do not use this bot in a way that will cause trouble to others. 
 We are not responsible for any problems caused by your use of this!
-[Contact the support group](https://t.me/queenelisasupport) for any issues that arise during the bot creation process.
-And Follow mr nima and give one star for queen elisa. 
-Contact Developer on [Discord](https://discord.com/invite/ZDP9PNrX).
+[Contact the support group](https://t.me/queenelisasupport) for any issues that arise during the bot creation process ( if you see this in 2026 don't join grp ).
+And Follow mr nima and give one star for queen elisa.
 </br>
  ### `VERSION : 4.0.2 - V`
- `Last Update : ` _2025-01-_ | [Update Info](https://mr-nima.vercel.app/elisa-change-log.html)
+ `Last Update : ` _2025-01-_ | [Update Info](https://mr-nima.vercel.app/change-log)
 
 #### Give One star For Queen Elisa and [Follow Me](https://github.com/DarkMakerofc) 
 
@@ -44,6 +43,7 @@ Contact Developer on [Discord](https://discord.com/invite/ZDP9PNrX).
    * [![NIMAYT](https://img.shields.io/badge/HOW_TO_MAKE_MONGODB_URL-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@MRNIMAOFC/](https://youtu.be/FRRQ9l5k5Gs?si=IY_V9qm55-S6ABSG))</br>
  - _host_
 
+### [START DEPLOY](https://mr-nima.vercel.app/deploy-elisa) 
 **2. Deploy steps.**
  - _Fork queen elisa repository._
  - _Link with yoour whatsappp using Scan qr code or pair code._
